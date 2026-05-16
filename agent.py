@@ -1,6 +1,4 @@
 import os, json
-import faiss
-import numpy as np
 from openai import OpenAI
 from dotenv import load_dotenv
 
